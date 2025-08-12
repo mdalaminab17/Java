@@ -3,7 +3,7 @@ public class Main {
         // alamin obj = new alamin();
         // obj.sayHello(); // alamin class
 
-        // evenodd obj2 = new evenodd(6); //Even Odd Check class
+         evenodd obj2 = new evenodd(); //Even Odd Check class
 
         // grade g = new grade(89); // Grade Checker
        
@@ -11,7 +11,7 @@ public class Main {
 
         // leapyear lep = new leapyear();
 
-        largest ler = new largest();
+        // largest ler = new largest();
 
     }
 }
