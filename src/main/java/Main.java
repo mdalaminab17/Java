@@ -1,9 +1,10 @@
 public class Main {
     public static void main(String[] args) {
+
         // alamin obj = new alamin();
         // obj.sayHello(); // alamin class
 
-         evenodd obj2 = new evenodd(); //Even Odd Check class
+        //  evenodd obj2 = new evenodd(); //Even Odd Check class
 
         // grade g = new grade(89); // Grade Checker
        
@@ -12,6 +13,13 @@ public class Main {
         // leapyear lep = new leapyear();
 
         // largest ler = new largest();
+
+        // bubblesort s = new bubblesort(); // bubble sort java 
+
+        // linersearch se = new linersearch();
+
+        binarysearch b = new binarysearch();
+        
 
     }
 }
